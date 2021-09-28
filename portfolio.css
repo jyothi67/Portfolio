@@ -1,0 +1,101 @@
+li {
+    float: left;
+}
+body {
+    background-color: whitesmoke;
+}
+ul {
+    list-style-type: none;
+    background-color: black;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    width: 70px;
+    height: 70px;
+}
+li a {
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 20px;
+}
+li a:hover {
+    color: white;
+    text-decoration: none;
+}
+#tabs {
+    padding: 25px;
+}
+#bgImageDiv {
+    margin-top: -16px;
+}
+#bgImage {
+    width: 1440px;
+    height: 400px;
+    position: relative;
+}
+.text {
+    position: absolute;
+    top: 30%;
+    color: white;
+    left: 40%;
+    font-size: 60px;
+}
+
+#image {
+    height: 300px;
+    width: 700px;
+}
+#bodyImg {
+    padding: 50px;
+}
+#footer {
+    background-color: black;
+    width: 1440px;;
+    height: 90px;
+    text-align: center;
+    padding-top: 10px;
+}
+.imageAbout {
+    width: 700px;
+    height: 300px;
+}
+#footerImage {
+    width: 1440px;
+    height: 500px;
+}
+#divFImage {
+    position: relative;
+}
+#aboutUs {
+    position: absolute;
+    color: rgb(10, 54, 136);
+    top: 30%;
+    left: 35%;
+    font-size: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.imageSettings {
+    width: 300px;
+    height: 300px;
+}
+.images {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+#contactBody {
+    border: 2px solid black;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 30px;
+    text-align: center;
+}
+#emailId {
+    padding: 20px;
+    color: whitesmoke;
+    float: right;
+}
